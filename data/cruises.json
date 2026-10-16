@@ -1,0 +1,1890 @@
+{
+ "updated": "2026-10-16",
+ "sailings": [
+  {
+   "id": "wonder-20261204",
+   "wk": 8,
+   "line": "Royal Caribbean",
+   "ship": "Wonder of the Seas",
+   "port": "Miami",
+   "dep": "Fri Dec 4",
+   "ret": "Mon Dec 7",
+   "n": 3,
+   "calls": "CocoCay, Nassau",
+   "int": 428,
+   "bal": 488,
+   "deal": "Deal: both cabins",
+   "tax": true,
+   "school": "",
+   "schoolGood": false,
+   "src": "https://m.icruise.com/itineraries/3-night-perfect-day-at-cococay-and-bahamas-cruise_wonder-of-the-seas_12-4-2026.html",
+   "srcName": "iCruise",
+   "rank": 2,
+   "note": "iCruise Oct 16: $428 / $488 incl. taxes (flat). Cruisesheet's ship list shows inside $408, its route page $428 — not counted until confirmed",
+   "drop": false,
+   "fam": {
+    "int": 1088,
+    "bal": 1207,
+    "date": "2026-10-16",
+    "link": "https://www.royalcaribbean.com/room-selection/type-and-subtype?groupId=WN03MIA-2714834348&packageCode=WN3BH179&sailDate=2026-12-04&country=USA&selectedCurrencyCode=USD&shipCode=WN&cabinClassType=BALCONY&roomIndex=0&r0a=3&r0c=1&r0b=n&r0r=n&r0s=n&r0q=n&r0t=n&r0d=BALCONY&r0D=y&rgVisited=true&r0C=y"
+   }
+  },
+  {
+   "id": "wonder-20261030",
+   "wk": 3,
+   "line": "Royal Caribbean",
+   "ship": "Wonder of the Seas",
+   "port": "Miami",
+   "dep": "Fri Oct 30",
+   "ret": "Mon Nov 2",
+   "n": 3,
+   "calls": "CocoCay, Nassau",
+   "int": 407,
+   "bal": 485,
+   "deal": "Deal: both cabins",
+   "school": "Halloween weekend",
+   "schoolGood": false,
+   "src": "https://gangwaze.com/cruise-lines/royal-caribbean/wonder-of-the-seas/2026-10-30/3-nights",
+   "srcName": "Gangwaze",
+   "rank": 8,
+   "fam": {
+    "int": null,
+    "bal": 1648,
+    "date": "2026-10-16",
+    "link": "https://www.royalcaribbean.com/room-selection/type-and-subtype?groupId=WN03MIA-2714834348&packageCode=WN3BH179&sailDate=2026-10-30&country=USA&selectedCurrencyCode=USD&shipCode=WN&cabinClassType=BALCONY&roomIndex=0&r0a=3&r0c=1&r0b=n&r0r=n&r0s=n&r0q=n&r0t=n&r0d=BALCONY&r0D=y&rgVisited=true&r0C=y"
+   },
+   "note": "Gangwaze Oct 16: $407 / $485 (flat); Cruisesheet balcony $478–$508",
+   "drop": false
+  },
+  {
+   "id": "wonder-20261120",
+   "wk": 6,
+   "line": "Royal Caribbean",
+   "ship": "Wonder of the Seas",
+   "port": "Miami",
+   "dep": "Fri Nov 20",
+   "ret": "Mon Nov 23",
+   "n": 3,
+   "calls": "Perfect Day at CocoCay only (Perfect Day Getaway)",
+   "int": null,
+   "bal": 448,
+   "deal": "Deal: balcony",
+   "school": "Mon Nov 23 off (Fall Break)",
+   "schoolGood": true,
+   "src": "https://cruisesheet.com/cruises/on/royal-caribbean/wonder-of-the-seas?page=2",
+   "srcName": "Cruisesheet",
+   "rank": 3,
+   "fam": {
+    "int": 1092,
+    "bal": 1129,
+    "date": "2026-10-16",
+    "link": "https://www.royalcaribbean.com/room-selection/type-and-subtype?groupId=WN03MIA-319096340&packageCode=WN3BH216&sailDate=2026-11-20&country=USA&selectedCurrencyCode=USD&shipCode=WN&cabinClassType=BALCONY&roomIndex=0&r0a=3&r0c=1&r0b=n&r0r=n&r0s=n&r0q=n&r0t=n&r0d=BALCONY&r0D=y&rgVisited=true&r0C=y"
+   },
+   "note": "Cruisesheet Oct 16: balcony $448 (flat); interior not shown",
+   "drop": false
+  },
+  {
+   "id": "utopia-20261030",
+   "wk": 3,
+   "line": "Royal Caribbean",
+   "ship": "Utopia of the Seas",
+   "port": "Port Canaveral",
+   "dep": "Fri Oct 30",
+   "ret": "Mon Nov 2",
+   "n": 3,
+   "calls": "Nassau, CocoCay",
+   "int": 515,
+   "bal": 502,
+   "deal": "Deal: balcony",
+   "school": "Halloween weekend",
+   "schoolGood": false,
+   "src": "https://cruisesheet.com/route/royal-caribbean-utopia-of-the-seas-3-night-port-canaveral-roundtrip",
+   "srcName": "Cruisesheet",
+   "rank": 6,
+   "fam": {
+    "int": null,
+    "bal": 1396,
+    "date": "2026-10-16",
+    "link": "https://www.royalcaribbean.com/room-selection/type-and-subtype?groupId=UT03PCN-3464558580&packageCode=UT3BH172&sailDate=2026-10-30&country=USA&selectedCurrencyCode=USD&shipCode=UT&cabinClassType=BALCONY&roomIndex=0&r0a=3&r0c=1&r0b=n&r0r=n&r0s=n&r0q=n&r0t=n&r0d=BALCONY&r0D=y&rgVisited=true&r0C=y"
+   },
+   "note": "Cruisesheet Oct 16: balcony $502 — $56 below the $558 reported Oct 10. Gangwaze page still shows its Oct 7 $515 / $558",
+   "drop": false
+  },
+  {
+   "id": "wonder-20261106",
+   "wk": 4,
+   "line": "Royal Caribbean",
+   "ship": "Wonder of the Seas",
+   "port": "Miami",
+   "dep": "Fri Nov 6",
+   "ret": "Mon Nov 9",
+   "n": 3,
+   "calls": "CocoCay, Nassau",
+   "int": 503,
+   "bal": 562,
+   "deal": "Deal: balcony",
+   "school": "",
+   "schoolGood": false,
+   "src": "https://gangwaze.com/cruise-lines/royal-caribbean/wonder-of-the-seas/2026-11-06/3-nights",
+   "srcName": "Gangwaze",
+   "rank": 1,
+   "fam": {
+    "int": 1048,
+    "bal": 1188,
+    "date": "2026-10-16",
+    "link": "https://www.royalcaribbean.com/room-selection/type-and-subtype?groupId=WN03MIA-2714834348&packageCode=WN3BH180&sailDate=2026-11-06&country=USA&selectedCurrencyCode=USD&shipCode=WN&cabinClassType=BALCONY&roomIndex=0&r0a=3&r0c=1&r0b=n&r0r=n&r0s=n&r0q=n&r0t=n&r0d=BALCONY&r0D=y&rgVisited=true&r0C=y"
+   },
+   "note": "Gangwaze Oct 16: inside $503 / balcony $562; iCruise & Cruisesheet inside $508",
+   "drop": false
+  },
+  {
+   "id": "wonder-20261127",
+   "wk": 7,
+   "line": "Royal Caribbean",
+   "ship": "Wonder of the Seas",
+   "port": "Miami",
+   "dep": "Fri Nov 27",
+   "ret": "Mon Nov 30",
+   "n": 3,
+   "calls": "CocoCay, Nassau",
+   "int": 584,
+   "bal": 506,
+   "deal": "Deal: balcony",
+   "school": "Fri Nov 27 off (Fall Break)",
+   "schoolGood": true,
+   "src": "https://gangwaze.com/cruise-lines/royal-caribbean/wonder-of-the-seas/2026-11-27/3-nights",
+   "srcName": "Gangwaze",
+   "rank": 7,
+   "fam": {
+    "int": 1832,
+    "bal": 1607,
+    "date": "2026-10-16",
+    "link": "https://www.royalcaribbean.com/room-selection/type-and-subtype?groupId=WN03MIA-2714834348&packageCode=WN3BH179&sailDate=2026-11-27&country=USA&selectedCurrencyCode=USD&shipCode=WN&cabinClassType=BALCONY&roomIndex=0&r0a=3&r0c=1&r0b=n&r0r=n&r0s=n&r0q=n&r0t=n&r0d=BALCONY&r0D=y&rgVisited=true&r0C=y"
+   },
+   "note": "Gangwaze (latest row Oct 10): $584 / $506. Cruisesheet Oct 16 inside $568 (flat)",
+   "drop": false
+  },
+  {
+   "id": "utopia-20261204",
+   "wk": 8,
+   "line": "Royal Caribbean",
+   "ship": "Utopia of the Seas",
+   "port": "Port Canaveral",
+   "dep": "Fri Dec 4",
+   "ret": "Mon Dec 7",
+   "n": 3,
+   "calls": "Nassau, CocoCay",
+   "int": 509,
+   "bal": 541,
+   "deal": "Deal: balcony",
+   "school": "",
+   "schoolGood": false,
+   "src": "https://cruisesheet.com/route/royal-caribbean-utopia-of-the-seas-3-night-port-canaveral-roundtrip",
+   "srcName": "Cruisesheet",
+   "rank": 5,
+   "note": "Cruisesheet route list Oct 16: balcony $541 (new, under the $575 line); interior $509 carried from Oct 10. Single source — TaoTicket shows 'from $590' incl. taxes, Cruisesheet's sailing page (last updated Aug 28) $496 / $576",
+   "drop": false,
+   "fam": {
+    "int": null,
+    "bal": 1395,
+    "date": "2026-10-16",
+    "link": "https://www.royalcaribbean.com/room-selection/type-and-subtype?groupId=UT03PCN-3464558580&packageCode=UT3BH175&sailDate=2026-12-04&country=USA&selectedCurrencyCode=USD&shipCode=UT&cabinClassType=BALCONY&roomIndex=0&r0a=3&r0c=1&r0b=n&r0r=n&r0s=n&r0q=n&r0t=n&r0d=BALCONY&r0D=y&rgVisited=true&r0C=y"
+   }
+  },
+  {
+   "id": "wonder-20261023",
+   "wk": 2,
+   "line": "Royal Caribbean",
+   "ship": "Wonder of the Seas",
+   "port": "Miami",
+   "dep": "Fri Oct 23",
+   "ret": "Mon Oct 26",
+   "n": 3,
+   "calls": "CocoCay, Nassau",
+   "int": 533,
+   "bal": 552,
+   "deal": "Deal: balcony",
+   "school": "",
+   "schoolGood": false,
+   "src": "https://gangwaze.com/cruise-lines/royal-caribbean/wonder-of-the-seas/2026-10-23/3-nights",
+   "srcName": "Gangwaze",
+   "rank": 15,
+   "fam": {
+    "na": "No room for 4 online",
+    "date": "2026-10-16",
+    "link": "https://www.royalcaribbean.com/room-selection/type-and-subtype?groupId=WN03MIA-2714834348&packageCode=WN3BH177&sailDate=2026-10-23&country=USA&selectedCurrencyCode=USD&shipCode=WN&cabinClassType=BALCONY&roomIndex=0&r0a=3&r0c=1&r0b=n&r0r=n&r0s=n&r0q=n&r0t=n&r0d=BALCONY&r0D=y&rgVisited=true&r0C=y"
+   },
+   "note": "Gangwaze (latest row Oct 12): $533 / $552 (flat); Cruisesheet balcony $548",
+   "drop": false
+  },
+  {
+   "id": "utopia-20261127",
+   "wk": 7,
+   "line": "Royal Caribbean",
+   "ship": "Utopia of the Seas",
+   "port": "Port Canaveral",
+   "dep": "Fri Nov 27",
+   "ret": "Mon Nov 30",
+   "n": 3,
+   "calls": "Nassau, CocoCay",
+   "int": null,
+   "bal": 840,
+   "deal": "Deal: price drop −18%",
+   "school": "Fri Nov 27 off (Fall Break)",
+   "schoolGood": true,
+   "src": "https://cruisesheet.com/route/royal-caribbean-utopia-of-the-seas-3-night-port-canaveral-roundtrip",
+   "srcName": "Cruisesheet",
+   "rank": 9,
+   "note": "Cruisesheet Oct 16: balcony $840, down 18% from $1,022 (Oct 10–11). Thanksgiving / Fall Break weekend",
+   "drop": true,
+   "fam": {
+    "int": 2612,
+    "bal": 2280,
+    "date": "2026-10-16",
+    "link": "https://www.royalcaribbean.com/room-selection/type-and-subtype?groupId=UT03PCN-3464558580&packageCode=UT3BH174&sailDate=2026-11-27&country=USA&selectedCurrencyCode=USD&shipCode=UT&cabinClassType=BALCONY&roomIndex=0&r0a=3&r0c=1&r0b=n&r0r=n&r0s=n&r0q=n&r0t=n&r0d=BALCONY&r0D=y&rgVisited=true&r0C=y"
+   }
+  },
+  {
+   "id": "wish-20261120",
+   "wk": 6,
+   "line": "Disney",
+   "ship": "Disney Wish",
+   "port": "Port Canaveral",
+   "dep": "Fri Nov 20",
+   "ret": "Mon Nov 23",
+   "n": 3,
+   "calls": "Nassau, Castaway Cay",
+   "int": 1016,
+   "bal": 1178,
+   "deal": "Deal: price drop −18%",
+   "tax": true,
+   "school": "Mon Nov 23 off (Fall Break)",
+   "schoolGood": true,
+   "src": "https://www.affordabletours.com/cruises/s/172430261120",
+   "srcName": "AffordableTours",
+   "rank": 17,
+   "drop": true,
+   "note": "AffordableTours Oct 16: $1,016 / $1,178 incl. taxes (flat since the Oct 13 drop)"
+  },
+  {
+   "id": "wish-20261204",
+   "wk": 8,
+   "line": "Disney",
+   "ship": "Disney Wish",
+   "port": "Port Canaveral",
+   "dep": "Fri Dec 4",
+   "ret": "Mon Dec 7",
+   "n": 3,
+   "calls": "Nassau, Castaway Cay · Very Merrytime",
+   "int": 1004,
+   "bal": 1103,
+   "deal": "Deal: price drop −18%",
+   "school": "",
+   "schoolGood": false,
+   "src": "https://m.icruise.com/itineraries/3-night-very-merrytime-bahamian-cruise-cruise_disney-wish_12-4-2026.html",
+   "srcName": "iCruise",
+   "rank": 16,
+   "note": "Cruisesheet Oct 16: inside $1,004 / balcony $1,103 (flat)",
+   "drop": true,
+   "tax": true
+  },
+  {
+   "id": "seashore-20261105",
+   "wk": 4,
+   "line": "MSC",
+   "ship": "MSC Seashore",
+   "port": "Port Canaveral",
+   "dep": "Thu Nov 5",
+   "ret": "Sun Nov 8",
+   "n": 3,
+   "calls": "Nassau, Ocean Cay",
+   "int": 227,
+   "bal": 338,
+   "deal": "Deal: both cabins",
+   "tax": true,
+   "school": "",
+   "schoolGood": false,
+   "src": "https://www.affordabletours.com/cruises/s/164352261105",
+   "srcName": "AffordableTours",
+   "rank": 10,
+   "drop": false,
+   "note": "AffordableTours Oct 16: $227 / $338 incl. taxes — down $27 each since Oct 15 and $44 below the $271 / $382 reported Oct 3"
+  },
+  {
+   "id": "seashore-20261203",
+   "wk": 8,
+   "line": "MSC",
+   "ship": "MSC Seashore",
+   "port": "Port Canaveral",
+   "dep": "Thu Dec 3",
+   "ret": "Sun Dec 6",
+   "n": 3,
+   "calls": "Nassau, Ocean Cay",
+   "int": 228,
+   "bal": 339,
+   "deal": "Deal: both cabins",
+   "tax": true,
+   "school": "",
+   "schoolGood": false,
+   "src": "https://www.affordabletours.com/cruises/s/164352261203",
+   "srcName": "AffordableTours",
+   "rank": 11,
+   "note": "AffordableTours Oct 16: $228 / $339 incl. taxes (flat)",
+   "drop": false
+  },
+  {
+   "id": "seashore-20261112",
+   "wk": 5,
+   "line": "MSC",
+   "ship": "MSC Seashore",
+   "port": "Port Canaveral",
+   "dep": "Thu Nov 12",
+   "ret": "Sun Nov 15",
+   "n": 3,
+   "calls": "Nassau, Ocean Cay",
+   "int": 258,
+   "bal": 369,
+   "deal": "Deal: both cabins",
+   "tax": true,
+   "school": "",
+   "schoolGood": false,
+   "src": "https://www.affordabletours.com/cruises/s/164352261112",
+   "srcName": "AffordableTours",
+   "rank": 12,
+   "note": "AffordableTours Oct 15: $258 / $369 incl. taxes (down $9)",
+   "drop": false
+  },
+  {
+   "id": "seashore-20261119",
+   "wk": 6,
+   "line": "MSC",
+   "ship": "MSC Seashore",
+   "port": "Port Canaveral",
+   "dep": "Thu Nov 19",
+   "ret": "Sun Nov 22",
+   "n": 3,
+   "calls": "Nassau, Ocean Cay",
+   "int": 278,
+   "bal": 398,
+   "deal": "Deal: both cabins",
+   "tax": true,
+   "school": "Fall Break starts Mon after",
+   "schoolGood": false,
+   "src": "https://www.affordabletours.com/cruises/s/164352261119",
+   "srcName": "AffordableTours",
+   "rank": 13,
+   "note": "AffordableTours Oct 15: interior $278 incl. taxes (down $9); balcony $398 carried from Oct 14",
+   "drop": false
+  },
+  {
+   "id": "seashore-20261029",
+   "wk": 3,
+   "line": "MSC",
+   "ship": "MSC Seashore",
+   "port": "Port Canaveral",
+   "dep": "Thu Oct 29",
+   "ret": "Sun Nov 1",
+   "n": 3,
+   "calls": "Nassau, Ocean Cay",
+   "int": 319,
+   "bal": 430,
+   "deal": "Deal: both cabins",
+   "tax": true,
+   "school": "Halloween weekend",
+   "schoolGood": false,
+   "src": "https://www.affordabletours.com/cruises/s/152833261029",
+   "srcName": "AffordableTours",
+   "rank": 14,
+   "note": "AffordableTours Oct 15: interior $319 (flat); balcony $430 carried",
+   "drop": false
+  },
+  {
+   "id": "utopia-20261106",
+   "wk": 4,
+   "line": "Royal Caribbean",
+   "ship": "Utopia of the Seas",
+   "port": "Port Canaveral",
+   "dep": "Fri Nov 6",
+   "ret": "Mon Nov 9",
+   "n": 3,
+   "calls": "CocoCay, Nassau",
+   "int": 476,
+   "bal": 611,
+   "deal": "Close (interior $26 over)",
+   "school": "",
+   "schoolGood": false,
+   "src": "https://cruisesheet.com/route/royal-caribbean-utopia-of-the-seas-3-night-port-canaveral-roundtrip",
+   "srcName": "Cruisesheet",
+   "rank": 18,
+   "fam": {
+    "int": null,
+    "bal": 1595,
+    "date": "2026-10-16",
+    "link": "https://www.royalcaribbean.com/room-selection/type-and-subtype?groupId=UT03PCN-3464558580&packageCode=UT3BH173&sailDate=2026-11-06&country=USA&selectedCurrencyCode=USD&shipCode=UT&cabinClassType=BALCONY&roomIndex=0&r0a=3&r0c=1&r0b=n&r0r=n&r0s=n&r0q=n&r0t=n&r0d=BALCONY&r0D=y&rgVisited=true&r0C=y"
+   },
+   "note": "Cruisesheet Oct 16: balcony $611 (down from $648); interior $476 carried from Oct 3",
+   "close": true,
+   "drop": false
+  },
+  {
+   "id": "utopia-20261023",
+   "wk": 2,
+   "line": "Royal Caribbean",
+   "ship": "Utopia of the Seas",
+   "port": "Port Canaveral",
+   "dep": "Fri Oct 23",
+   "ret": "Mon Oct 26",
+   "n": 3,
+   "calls": "Nassau, CocoCay",
+   "int": 620,
+   "bal": 636,
+   "deal": "No (was a deal Oct 8)",
+   "school": "",
+   "schoolGood": false,
+   "src": "https://gangwaze.com/cruise-lines/royal-caribbean/utopia-of-the-seas/2026-10-23/3-nights",
+   "srcName": "Gangwaze",
+   "rank": 19,
+   "fam": {
+    "int": null,
+    "bal": 1877,
+    "date": "2026-10-16",
+    "link": "https://www.royalcaribbean.com/room-selection/type-and-subtype?groupId=UT03PCN-3464558580&packageCode=UT3BH170&sailDate=2026-10-23&country=USA&selectedCurrencyCode=USD&shipCode=UT&cabinClassType=BALCONY&roomIndex=0&r0a=3&r0c=1&r0b=n&r0r=n&r0s=n&r0q=n&r0t=n&r0d=BALCONY&r0D=y&rgVisited=true&r0C=y"
+   },
+   "note": "Cruisesheet Oct 16: inside up to $620 (Gangwaze Oct 10: $543 / $636)",
+   "drop": false
+  },
+  {
+   "id": "utopia-20261113",
+   "wk": 5,
+   "line": "Royal Caribbean",
+   "ship": "Utopia of the Seas",
+   "port": "Port Canaveral",
+   "dep": "Fri Nov 13",
+   "ret": "Mon Nov 16",
+   "n": 3,
+   "calls": "Nassau, CocoCay",
+   "int": 539,
+   "bal": 663,
+   "deal": "No",
+   "school": "",
+   "schoolGood": false,
+   "src": "https://gangwaze.com/cruise-lines/royal-caribbean/utopia-of-the-seas/2026-11-13/3-nights",
+   "srcName": "Gangwaze",
+   "rank": 20,
+   "fam": {
+    "int": null,
+    "bal": 1794,
+    "date": "2026-10-16",
+    "link": "https://www.royalcaribbean.com/room-selection/type-and-subtype?groupId=UT03PCN-3464558580&packageCode=UT3BH174&sailDate=2026-11-13&country=USA&selectedCurrencyCode=USD&shipCode=UT&cabinClassType=BALCONY&roomIndex=0&r0a=3&r0c=1&r0b=n&r0r=n&r0s=n&r0q=n&r0t=n&r0d=BALCONY&r0D=y&rgVisited=true&r0C=y"
+   },
+   "note": "Cruisesheet Oct 16: inside $539 (Gangwaze $522 / $663 on Oct 3)",
+   "drop": false
+  },
+  {
+   "id": "utopia-20261120",
+   "wk": 6,
+   "line": "Royal Caribbean",
+   "ship": "Utopia of the Seas",
+   "port": "Port Canaveral",
+   "dep": "Fri Nov 20",
+   "ret": "Mon Nov 23",
+   "n": 3,
+   "calls": "Nassau, CocoCay",
+   "int": 569,
+   "bal": 611,
+   "deal": "Deal: all 4 in one room",
+   "tax": true,
+   "school": "Mon Nov 23 off (Fall Break)",
+   "schoolGood": true,
+   "src": "https://m.icruise.com/itineraries/3-night-bahamas-and-perfect-day-cruise_utopia-of-the-seas_11-20-2026.html",
+   "srcName": "iCruise",
+   "rank": 4,
+   "fam": {
+    "int": null,
+    "bal": 1335,
+    "date": "2026-10-16",
+    "link": "https://www.royalcaribbean.com/room-selection/type-and-subtype?groupId=UT03PCN-3464558580&packageCode=UT3BH175&sailDate=2026-11-20&country=USA&selectedCurrencyCode=USD&shipCode=UT&cabinClassType=BALCONY&roomIndex=0&r0a=3&r0c=1&r0b=n&r0r=n&r0s=n&r0q=n&r0t=n&r0d=BALCONY&r0D=y&rgVisited=true&r0C=y"
+   },
+   "note": "Cruisesheet Oct 16: inside $569 (iCruise Oct 10 $579 / $611 incl. taxes)",
+   "drop": false
+  },
+  {
+   "id": "harmony-20261029",
+   "wk": 3,
+   "line": "Royal Caribbean",
+   "ship": "Harmony of the Seas",
+   "port": "Port Canaveral",
+   "dep": "Thu Oct 29",
+   "ret": "Sat Oct 31",
+   "n": 2,
+   "calls": "CocoCay",
+   "int": null,
+   "bal": null,
+   "deal": "Only suites left",
+   "school": "Halloween",
+   "schoolGood": false,
+   "src": "https://www.cruisebound.com/sailing/95821",
+   "srcName": "Cruisebound",
+   "rank": 21,
+   "note": "Cruisebound Oct 10 lists only suites (from $2,408 before taxes)",
+   "drop": false
+  },
+  {
+   "id": "wish-20261106",
+   "wk": 4,
+   "line": "Disney",
+   "ship": "Disney Wish",
+   "port": "Port Canaveral",
+   "dep": "Fri Nov 6",
+   "ret": "Mon Nov 9",
+   "n": 3,
+   "calls": "Nassau, Castaway Cay",
+   "int": null,
+   "bal": 1026,
+   "deal": "Interior sold out",
+   "tax": true,
+   "school": "",
+   "schoolGood": false,
+   "src": "https://www.affordabletours.com/cruises/s/172426261106",
+   "srcName": "Cruisesheet",
+   "rank": 22,
+   "note": "Cruisesheet Oct 14: balcony $1,026; interior sold out",
+   "drop": false
+  },
+  {
+   "id": "wish-20261127",
+   "wk": 7,
+   "line": "Disney",
+   "ship": "Disney Wish",
+   "port": "Port Canaveral",
+   "dep": "Fri Nov 27",
+   "ret": "Mon Nov 30",
+   "n": 3,
+   "calls": "Nassau, Castaway Cay · Very Merrytime",
+   "int": 1088,
+   "bal": 1238,
+   "deal": "No",
+   "tax": true,
+   "school": "Fri Nov 27 off (Fall Break)",
+   "schoolGood": true,
+   "src": "https://m.icruise.com/itineraries/3-night-very-merrytime-bahamian-cruise-cruise_disney-wish_11-27-2026.html",
+   "srcName": "iCruise",
+   "note": "Newly tracked (Thanksgiving weekend): iCruise Oct 14 $1,088 / $1,238 incl. taxes",
+   "drop": false,
+   "rank": 23
+  },
+  {
+   "id": "wish-20261113",
+   "wk": 5,
+   "line": "Disney",
+   "ship": "Disney Wish",
+   "port": "Port Canaveral",
+   "dep": "Fri Nov 13",
+   "ret": "Mon Nov 16",
+   "n": 3,
+   "calls": "Nassau, Castaway Cay",
+   "int": 1139,
+   "bal": 1091,
+   "deal": "No",
+   "tax": true,
+   "school": "",
+   "schoolGood": false,
+   "src": "https://www.affordabletours.com/cruises/s/172428261113",
+   "srcName": "AffordableTours",
+   "rank": 24,
+   "drop": false,
+   "note": "Cruisesheet Oct 14: balcony $1,091 (flat)"
+  },
+  {
+   "id": "wish-20261030",
+   "wk": 3,
+   "line": "Disney",
+   "ship": "Disney Wish",
+   "port": "Port Canaveral",
+   "dep": "Fri Oct 30",
+   "ret": "Mon Nov 2",
+   "n": 3,
+   "calls": "Nassau, Castaway Cay · Halloween",
+   "int": 1166,
+   "bal": 1097,
+   "deal": "No",
+   "tax": true,
+   "school": "Halloween weekend",
+   "schoolGood": false,
+   "src": "https://www.affordabletours.com/cruises/s/172424261030",
+   "srcName": "AffordableTours",
+   "rank": 25,
+   "drop": false,
+   "note": "AffordableTours Oct 15: $1,166 / $1,097 incl. taxes (flat; oceanview sold out). Cruisesheet still shows inside $953 — not matched by AffordableTours, so not counted as a drop"
+  },
+  {
+   "id": "destiny-20261029",
+   "wk": 3,
+   "line": "Disney",
+   "ship": "Disney Destiny",
+   "port": "Fort Lauderdale",
+   "dep": "Thu Oct 29",
+   "ret": "Mon Nov 2",
+   "n": 4,
+   "calls": "Nassau, Castaway Cay, sea day · Halloween",
+   "int": 1112,
+   "bal": 1665,
+   "deal": "No",
+   "tax": true,
+   "school": "Halloween weekend",
+   "schoolGood": false,
+   "src": "https://www.affordabletours.com/cruises/s/172335261029",
+   "srcName": "AffordableTours",
+   "rank": 26,
+   "note": "Not rechecked Oct 10",
+   "drop": false
+  }
+ ],
+ "history": {
+  "dates": [
+   "2026-10-02",
+   "2026-10-03",
+   "2026-10-04",
+   "2026-10-06",
+   "2026-10-08",
+   "2026-10-10",
+   "2026-10-11",
+   "2026-10-12",
+   "2026-10-13",
+   "2026-10-14",
+   "2026-10-15",
+   "2026-10-16"
+  ],
+  "rows": {
+   "wonder-20261030": [
+    null,
+    [
+     407,
+     519
+    ],
+    [
+     407,
+     519
+    ],
+    [
+     407,
+     519
+    ],
+    [
+     407,
+     519
+    ],
+    [
+     407,
+     488
+    ],
+    [
+     407,
+     488
+    ],
+    [
+     407,
+     519
+    ],
+    [
+     407,
+     519
+    ],
+    [
+     407,
+     485
+    ],
+    [
+     407,
+     485
+    ],
+    [
+     407,
+     485
+    ]
+   ],
+   "wonder-20261120": [
+    null,
+    [
+     439,
+     447
+    ],
+    [
+     438,
+     null
+    ],
+    [
+     438,
+     451
+    ],
+    [
+     null,
+     451
+    ],
+    [
+     null,
+     488
+    ],
+    [
+     null,
+     488
+    ],
+    [
+     null,
+     488
+    ],
+    [
+     null,
+     488
+    ],
+    [
+     null,
+     488
+    ],
+    [
+     null,
+     448
+    ],
+    [
+     null,
+     448
+    ]
+   ],
+   "wonder-20261127": [
+    null,
+    [
+     506,
+     506
+    ],
+    [
+     626,
+     506
+    ],
+    [
+     626,
+     506
+    ],
+    [
+     626,
+     506
+    ],
+    [
+     584,
+     506
+    ],
+    [
+     584,
+     506
+    ],
+    [
+     584,
+     506
+    ],
+    [
+     584,
+     506
+    ],
+    [
+     584,
+     506
+    ],
+    [
+     568,
+     null
+    ],
+    [
+     568,
+     null
+    ]
+   ],
+   "wonder-20261204": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+     458,
+     528
+    ],
+    [
+     458,
+     null
+    ],
+    [
+     458,
+     null
+    ],
+    [
+     458,
+     528
+    ],
+    [
+     458,
+     null
+    ],
+    [
+     428,
+     488
+    ],
+    [
+     428,
+     488
+    ]
+   ],
+   "utopia-20261030": [
+    null,
+    [
+     541,
+     634
+    ],
+    null,
+    [
+     541,
+     634
+    ],
+    [
+     541,
+     634
+    ],
+    [
+     515,
+     558
+    ],
+    [
+     528,
+     null
+    ],
+    null,
+    null,
+    null,
+    null,
+    [
+     null,
+     502
+    ]
+   ],
+   "wonder-20261023": [
+    null,
+    [
+     503,
+     543
+    ],
+    [
+     503,
+     543
+    ],
+    [
+     483,
+     543
+    ],
+    [
+     483,
+     543
+    ],
+    [
+     487,
+     543
+    ],
+    [
+     487,
+     543
+    ],
+    [
+     487,
+     543
+    ],
+    [
+     533,
+     552
+    ],
+    [
+     533,
+     552
+    ],
+    [
+     533,
+     552
+    ],
+    [
+     533,
+     552
+    ]
+   ],
+   "wonder-20261106": [
+    null,
+    [
+     662,
+     562
+    ],
+    [
+     542,
+     562
+    ],
+    [
+     542,
+     562
+    ],
+    [
+     565,
+     562
+    ],
+    [
+     562,
+     562
+    ],
+    [
+     562,
+     562
+    ],
+    [
+     562,
+     562
+    ],
+    [
+     562,
+     562
+    ],
+    [
+     562,
+     562
+    ],
+    [
+     508,
+     562
+    ],
+    [
+     503,
+     562
+    ]
+   ],
+   "seashore-20261203": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+     228,
+     339
+    ],
+    null,
+    [
+     228,
+     339
+    ],
+    null,
+    [
+     228,
+     339
+    ],
+    [
+     228,
+     null
+    ],
+    [
+     228,
+     339
+    ]
+   ],
+   "seashore-20261105": [
+    null,
+    [
+     271,
+     382
+    ],
+    [
+     271,
+     382
+    ],
+    [
+     271,
+     382
+    ],
+    [
+     254,
+     365
+    ],
+    [
+     254,
+     365
+    ],
+    [
+     254,
+     365
+    ],
+    [
+     254,
+     365
+    ],
+    [
+     254,
+     365
+    ],
+    [
+     254,
+     365
+    ],
+    [
+     254,
+     null
+    ],
+    [
+     227,
+     338
+    ]
+   ],
+   "seashore-20261112": [
+    null,
+    [
+     267,
+     378
+    ],
+    [
+     267,
+     378
+    ],
+    [
+     267,
+     378
+    ],
+    [
+     267,
+     378
+    ],
+    [
+     258,
+     369
+    ],
+    null,
+    [
+     267,
+     378
+    ],
+    null,
+    [
+     267,
+     378
+    ],
+    [
+     258,
+     369
+    ],
+    null
+   ],
+   "seashore-20261119": [
+    null,
+    [
+     287,
+     398
+    ],
+    [
+     287,
+     398
+    ],
+    [
+     287,
+     398
+    ],
+    [
+     287,
+     398
+    ],
+    [
+     278,
+     389
+    ],
+    null,
+    [
+     287,
+     398
+    ],
+    null,
+    [
+     287,
+     398
+    ],
+    [
+     278,
+     null
+    ],
+    null
+   ],
+   "seashore-20261029": [
+    null,
+    [
+     278,
+     389
+    ],
+    [
+     259,
+     370
+    ],
+    [
+     259,
+     370
+    ],
+    [
+     259,
+     370
+    ],
+    [
+     319,
+     null
+    ],
+    null,
+    null,
+    null,
+    [
+     319,
+     430
+    ],
+    [
+     319,
+     null
+    ],
+    null
+   ],
+   "utopia-20261106": [
+    null,
+    [
+     476,
+     661
+    ],
+    null,
+    null,
+    null,
+    [
+     null,
+     648
+    ],
+    [
+     null,
+     648
+    ],
+    null,
+    null,
+    null,
+    null,
+    [
+     null,
+     611
+    ]
+   ],
+   "utopia-20261023": [
+    null,
+    [
+     543,
+     639
+    ],
+    null,
+    null,
+    [
+     515,
+     558
+    ],
+    [
+     543,
+     636
+    ],
+    [
+     null,
+     642
+    ],
+    null,
+    null,
+    null,
+    null,
+    [
+     620,
+     null
+    ]
+   ],
+   "utopia-20261113": [
+    null,
+    [
+     522,
+     663
+    ],
+    null,
+    null,
+    [
+     522,
+     663
+    ],
+    null,
+    [
+     549,
+     null
+    ],
+    null,
+    null,
+    null,
+    null,
+    [
+     539,
+     null
+    ]
+   ],
+   "utopia-20261204": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+     509,
+     null
+    ],
+    [
+     509,
+     null
+    ],
+    null,
+    null,
+    null,
+    null,
+    [
+     509,
+     541
+    ]
+   ],
+   "utopia-20261120": [
+    null,
+    [
+     596,
+     655
+    ],
+    null,
+    null,
+    [
+     599,
+     662
+    ],
+    [
+     579,
+     611
+    ],
+    [
+     579,
+     null
+    ],
+    null,
+    null,
+    null,
+    null,
+    [
+     569,
+     null
+    ]
+   ],
+   "utopia-20261127": [
+    null,
+    [
+     654,
+     654
+    ],
+    null,
+    null,
+    null,
+    [
+     null,
+     1022
+    ],
+    [
+     null,
+     1022
+    ],
+    null,
+    null,
+    null,
+    null,
+    [
+     null,
+     840
+    ]
+   ],
+   "harmony-20261029": [
+    null,
+    [
+     307,
+     397
+    ],
+    null,
+    null,
+    [
+     null,
+     null
+    ],
+    [
+     null,
+     null
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "wish-20261106": [
+    null,
+    null,
+    null,
+    [
+     875,
+     1025
+    ],
+    [
+     null,
+     1025
+    ],
+    [
+     null,
+     1025
+    ],
+    null,
+    null,
+    null,
+    [
+     null,
+     1026
+    ],
+    [
+     null,
+     1026
+    ],
+    null
+   ],
+   "wish-20261113": [
+    null,
+    null,
+    null,
+    null,
+    [
+     1139,
+     1091
+    ],
+    [
+     1139,
+     1091
+    ],
+    null,
+    null,
+    [
+     1139,
+     1091
+    ],
+    [
+     1139,
+     1091
+    ],
+    [
+     null,
+     1091
+    ],
+    null
+   ],
+   "wish-20261030": [
+    null,
+    null,
+    [
+     null,
+     1019
+    ],
+    [
+     1166,
+     1097
+    ],
+    null,
+    [
+     1166,
+     1097
+    ],
+    null,
+    null,
+    [
+     1166,
+     1097
+    ],
+    [
+     1166,
+     1097
+    ],
+    [
+     1166,
+     1097
+    ],
+    null
+   ],
+   "wish-20261120": [
+    null,
+    [
+     1016,
+     1178
+    ],
+    null,
+    [
+     1244,
+     1445
+    ],
+    [
+     1244,
+     1445
+    ],
+    [
+     1244,
+     1445
+    ],
+    null,
+    null,
+    [
+     1016,
+     1178
+    ],
+    [
+     1016,
+     1178
+    ],
+    [
+     1016,
+     1178
+    ],
+    [
+     1016,
+     1178
+    ]
+   ],
+   "destiny-20261029": [
+    null,
+    [
+     1112,
+     1665
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "wish-20261204": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+     4013,
+     null
+    ],
+    null,
+    null,
+    null,
+    [
+     1004,
+     1103
+    ],
+    [
+     1004,
+     null
+    ],
+    [
+     1004,
+     1103
+    ]
+   ],
+   "wish-20261127": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+     1088,
+     1238
+    ],
+    [
+     1088,
+     null
+    ],
+    null
+   ]
+  }
+ },
+ "reported": [
+  {
+   "id": "wonder-20261120",
+   "date": "2026-10-03",
+   "cabin": "interior / balcony",
+   "price": "$439 / $447"
+  },
+  {
+   "id": "wonder-20261030",
+   "date": "2026-10-03",
+   "cabin": "interior / balcony",
+   "price": "$407 / $519"
+  },
+  {
+   "id": "seashore-20261112",
+   "date": "2026-10-03",
+   "cabin": "interior / balcony",
+   "price": "$267 / $378"
+  },
+  {
+   "id": "wonder-20261127",
+   "date": "2026-10-03",
+   "cabin": "balcony",
+   "price": "$506"
+  },
+  {
+   "id": "wonder-20261016",
+   "date": "2026-10-03",
+   "cabin": "balcony",
+   "price": "$508"
+  },
+  {
+   "id": "wonder-20261023",
+   "date": "2026-10-03",
+   "cabin": "balcony",
+   "price": "$543"
+  },
+  {
+   "id": "wonder-20261106",
+   "date": "2026-10-03",
+   "cabin": "balcony",
+   "price": "$562"
+  },
+  {
+   "id": "seashore-20261105",
+   "date": "2026-10-03",
+   "cabin": "interior / balcony",
+   "price": "$271 / $382"
+  },
+  {
+   "id": "seashore-20261029",
+   "date": "2026-10-03",
+   "cabin": "interior / balcony",
+   "price": "$278 / $389"
+  },
+  {
+   "id": "seashore-20261119",
+   "date": "2026-10-03",
+   "cabin": "interior / balcony",
+   "price": "$287 / $398"
+  },
+  {
+   "id": "seashore-20261015",
+   "date": "2026-10-03",
+   "cabin": "interior / balcony",
+   "price": "$318 / $429"
+  },
+  {
+   "id": "utopia-20261009",
+   "date": "2026-10-03",
+   "cabin": "interior (price drop)",
+   "price": "$543"
+  },
+  {
+   "id": "wish-20261009",
+   "date": "2026-10-03",
+   "cabin": "balcony (price drop)",
+   "price": "$1,184"
+  },
+  {
+   "id": "wonder-20261106",
+   "date": "2026-10-04",
+   "cabin": "interior (price drop −18%)",
+   "price": "$542"
+  },
+  {
+   "id": "utopia-20261023",
+   "date": "2026-10-08",
+   "cabin": "balcony (new deal)",
+   "price": "$558"
+  },
+  {
+   "id": "wonder-20261030",
+   "date": "2026-10-10",
+   "cabin": "balcony (dropped $31)",
+   "price": "$488"
+  },
+  {
+   "id": "utopia-20261016",
+   "date": "2026-10-10",
+   "cabin": "balcony (new deal)",
+   "price": "$542"
+  },
+  {
+   "id": "seashore-20261203",
+   "date": "2026-10-10",
+   "cabin": "interior / balcony (new deal)",
+   "price": "$228 / $339"
+  },
+  {
+   "id": "wonder-20261204",
+   "date": "2026-10-10",
+   "cabin": "balcony (new deal)",
+   "price": "$528"
+  },
+  {
+   "id": "utopia-20261030",
+   "date": "2026-10-10",
+   "cabin": "balcony (new deal)",
+   "price": "$558"
+  },
+  {
+   "id": "utopia-20261016",
+   "date": "2026-10-11",
+   "cabin": "balcony (dropped $48)",
+   "price": "$494"
+  },
+  {
+   "id": "wish-20261120",
+   "date": "2026-10-13",
+   "cabin": "interior / balcony (price drop −18%)",
+   "price": "$1,016 / $1,178"
+  },
+  {
+   "id": "wish-20261204",
+   "date": "2026-10-14",
+   "cabin": "interior / balcony (price drop −18%)",
+   "price": "$1,004 / $1,103"
+  },
+  {
+   "id": "wonder-20261204",
+   "date": "2026-10-15",
+   "cabin": "interior / balcony (new interior deal; balcony down $40)",
+   "price": "$428 / $488"
+  },
+  {
+   "id": "wonder-20261106",
+   "date": "2026-10-15",
+   "cabin": "interior (dropped $34 more)",
+   "price": "$508"
+  },
+  {
+   "id": "utopia-20261030",
+   "date": "2026-10-16",
+   "cabin": "balcony (dropped $56)",
+   "price": "$502"
+  },
+  {
+   "id": "utopia-20261204",
+   "date": "2026-10-16",
+   "cabin": "balcony (new deal)",
+   "price": "$541"
+  },
+  {
+   "id": "seashore-20261105",
+   "date": "2026-10-16",
+   "cabin": "interior / balcony (dropped $44)",
+   "price": "$227 / $338"
+  },
+  {
+   "id": "utopia-20261127",
+   "date": "2026-10-16",
+   "cabin": "balcony (price drop −18%)",
+   "price": "$840"
+  }
+ ],
+ "famHistory": [
+  {
+   "id": "wonder-20261106",
+   "date": "2026-10-03",
+   "int": 1188,
+   "bal": 1468
+  },
+  {
+   "id": "wonder-20261120",
+   "date": "2026-10-03",
+   "int": 1400,
+   "bal": 1482
+  },
+  {
+   "id": "wonder-20261030",
+   "date": "2026-10-03",
+   "int": 1508,
+   "bal": 1548
+  },
+  {
+   "id": "wonder-20261023",
+   "date": "2026-10-03",
+   "int": 1528,
+   "bal": 1585
+  },
+  {
+   "id": "wonder-20261016",
+   "date": "2026-10-03",
+   "int": 1568,
+   "bal": 1624
+  },
+  {
+   "id": "utopia-20261106",
+   "date": "2026-10-03",
+   "int": null,
+   "bal": 1733
+  },
+  {
+   "id": "utopia-20261016",
+   "date": "2026-10-03",
+   "int": null,
+   "bal": 1757
+  },
+  {
+   "id": "utopia-20261030",
+   "date": "2026-10-03",
+   "int": null,
+   "bal": 1766
+  },
+  {
+   "id": "wonder-20261127",
+   "date": "2026-10-03",
+   "int": 1772,
+   "bal": 1916
+  },
+  {
+   "id": "utopia-20261023",
+   "date": "2026-10-03",
+   "int": null,
+   "bal": 1996
+  },
+  {
+   "id": "utopia-20261113",
+   "date": "2026-10-03",
+   "int": null,
+   "bal": 2012
+  },
+  {
+   "id": "utopia-20261120",
+   "date": "2026-10-03",
+   "int": null,
+   "bal": 2749
+  },
+  {
+   "id": "wonder-20261023",
+   "date": "2026-10-16",
+   "note": "No room for 4 online"
+  },
+  {
+   "id": "wonder-20261030",
+   "date": "2026-10-16",
+   "int": null,
+   "bal": 1648
+  },
+  {
+   "id": "wonder-20261106",
+   "date": "2026-10-16",
+   "int": 1048,
+   "bal": 1188
+  },
+  {
+   "id": "wonder-20261120",
+   "date": "2026-10-16",
+   "int": 1092,
+   "bal": 1129
+  },
+  {
+   "id": "wonder-20261127",
+   "date": "2026-10-16",
+   "int": 1832,
+   "bal": 1607
+  },
+  {
+   "id": "wonder-20261204",
+   "date": "2026-10-16",
+   "int": 1088,
+   "bal": 1207
+  },
+  {
+   "id": "utopia-20261023",
+   "date": "2026-10-16",
+   "int": null,
+   "bal": 1877
+  },
+  {
+   "id": "utopia-20261030",
+   "date": "2026-10-16",
+   "int": null,
+   "bal": 1396
+  },
+  {
+   "id": "utopia-20261106",
+   "date": "2026-10-16",
+   "int": null,
+   "bal": 1595
+  },
+  {
+   "id": "utopia-20261113",
+   "date": "2026-10-16",
+   "int": null,
+   "bal": 1794
+  },
+  {
+   "id": "utopia-20261120",
+   "date": "2026-10-16",
+   "int": null,
+   "bal": 1335
+  },
+  {
+   "id": "utopia-20261127",
+   "date": "2026-10-16",
+   "int": 2612,
+   "bal": 2280
+  },
+  {
+   "id": "utopia-20261204",
+   "date": "2026-10-16",
+   "int": null,
+   "bal": 1395
+  }
+ ],
+ "summary": [
+  {
+   "label": "Deals now",
+   "title": "",
+   "text": "Interior ≤ $450 or balcony ≤ $575 pp for 3 nights (Disney $800 / $950), scaled by nights, or a ≥15% drop."
+  },
+  {
+   "label": "Best for all 4",
+   "title": "Wonder · Nov 6 · ≈ $1,048",
+   "text": "One interior room for 3 adults + 1 child, royalcaribbean.com Oct 16 (balcony ≈ $1,188). Royal Caribbean’s 3rd &amp; 4th guests sail free offer is why the family totals are so low."
+  },
+  {
+   "label": "Best school fit",
+   "title": "Wonder · Nov 20 · $1,129 balcony",
+   "text": "Back Mon Nov 23, the first day of Fall Break — down from $1,482 on Oct 3. Utopia the same weekend from Port Canaveral (closer drive): balcony $1,335 for all 4."
+  }
+ ],
+ "notesDate": "Oct 16",
+ "notes": [
+  "<strong>Family-of-4 prices refreshed Oct 16</strong> on royalcaribbean.com (3 adults + 1 child, one room, taxes included). Biggest drops since Oct 3: Wonder Nov 20 balcony $1,482 → $1,129; Wonder Nov 6 interior ≈ $1,188 → ≈ $1,048 and balcony $1,468 → ≈ $1,188; Utopia Nov 20 balcony $2,749 → $1,335; Utopia Oct 30 $1,766 → $1,396. Wonder Oct 23 no longer has a room for 4 online; Wonder Oct 30 balcony rose to $1,648.",
+  "<strong>Utopia of the Seas Fri Oct 30 – Mon Nov 2 (Port Canaveral)</strong> balcony down to $502 pp on Cruisesheet, $56 below the $558 reported Oct 10. Halloween weekend, no school day off. Last family-of-4 balcony quote (Oct 3) was $1,766.",
+  "<strong>New: Utopia Fri Dec 4 – Mon Dec 7</strong> balcony $541 pp on Cruisesheet's route list, under the $575 line. Only one source shows it: TaoTicket says \"from $590\" incl. taxes and Cruisesheet's own sailing page (last updated Aug 28) says $496 / $576. Check before acting.",
+  "<strong>MSC Seashore Thu Nov 5 – Sun Nov 8</strong> fell to $227 interior / $338 balcony pp incl. taxes (AffordableTours), down $27 since yesterday and $44 below the price reported Oct 3.",
+  "Utopia Fri Nov 27 (Thanksgiving, Fall Break Friday) balcony dropped 18% to $840 pp (from $1,022), which meets the ≥15% drop rule, though $840 is still well above the regular balcony line.",
+  "Other Cruisesheet moves for Utopia: Nov 6 balcony $611 (from $648); Nov 13 inside $539 (from $549); Nov 20 inside $569 (from $579); Oct 23 inside up to $620.",
+  "Wonder Nov 6 inside $503 on Gangwaze ($508 elsewhere). Wonder Dec 4 is flat at $428 / $488 on iCruise. Cruisesheet's ship list shows $408 inside, but its route page still says $428, so the lower figure is not counted yet.",
+  "Flat: Wonder Oct 23, Oct 30, Nov 20, Nov 27; Seashore Dec 3; Wish Nov 20 and Dec 4.",
+  "Removed the three Oct 16 sailings (Wonder, Utopia, Wish) because they sail today.",
+  "Limited fetch access: only pages surfaced by web search could be opened. Seashore Oct 29 / Nov 12 / Nov 19, Wish Oct 30 / Nov 6 / Nov 13 / Nov 27, Harmony Oct 29 and Destiny Oct 29 were not rechecked (values carried over).",
+  "Carnival Mardi Gras, Celebration and Jubilee and the tracked Norwegian ships run only 7-night trips in this window. Icon, Star, Symphony, Allure and Oasis have no short Florida sailings then. Virgin Voyages is adults-only (18+)."
+ ],
+ "scope": "Popular-ship 2–4 night Bahamas sailings from Port Canaveral, Miami and Fort Lauderdale · Thu/Fri/Sat departures, Oct 16 – Dec 5, 2026",
+ "schoolOff": {
+  "2026-11-11": "Veterans Day (no school)",
+  "2026-11-23": "Fall Break",
+  "2026-11-24": "Fall Break",
+  "2026-11-25": "Fall Break",
+  "2026-11-26": "Thanksgiving",
+  "2026-11-27": "Fall Break"
+ }
+}

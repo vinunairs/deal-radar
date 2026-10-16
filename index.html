@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Deal Radar · Weekend Cruises</title>
+<meta name="description" content="Weekend cruise deals on popular ships from Port Canaveral, Miami and Fort Lauderdale, updated daily.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%230b6e8a'/%3E%3Cpath d='M7 19h18l-3 5H10z' fill='white'/%3E%3Cpath d='M15 8v10h-6z' fill='white'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500;600;700&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+<style>body{margin:0}[hidden]{display:none!important}</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="site-top">
+    <div><span class="brand">Deal Radar · Cruises</span>
+    <h1>Weekend Cruise Watch</h1>
+    <p class="sub"><span id="scope"></span> · updated <span id="updated"></span></p></div>
+  </header>
+  <p class="loading" id="loading">Loading the latest prices…</p>
+  <div id="app" hidden style="display:flex;flex-direction:column;gap:24px">
+
+  <div class="strip" id="strip"></div>
+
+  <nav class="tabs" role="tablist" aria-label="Views">
+    <button type="button" role="tab" id="tab-cal" aria-selected="true" data-view="cal">Calendar</button>
+    <button type="button" role="tab" id="tab-tbl" aria-selected="false" data-view="tbl">Table</button>
+    <button type="button" role="tab" id="tab-hist" aria-selected="false" data-view="hist">History</button>
+  </nav>
+
+  <div data-pane="cal" style="display:flex;flex-direction:column;gap:14px">
+    <div class="calbar">
+      <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center">
+        <span class="lbl">Show</span>
+        <div class="seg" role="group" aria-label="Price shown">
+          <button type="button" id="m-pp" data-mode="pp" aria-pressed="true">Per person</button>
+          <button type="button" id="m-fam" data-mode="fam" aria-pressed="false">All 4 of us</button>
+        </div>
+        <div class="seg" role="group" aria-label="Which sailings">
+          <button type="button" id="f-all2" data-f="all" aria-pressed="true">All</button>
+          <button type="button" id="f-rc" data-f="Royal Caribbean" aria-pressed="false">Royal Caribbean</button>
+          <button type="button" id="f-deal" data-f="deals" aria-pressed="false">Deals only</button>
+        </div>
+      </div>
+      <div class="legend">
+        <span><i style="background:var(--good-soft);border:1px solid var(--good)"></i>Deal</span>
+        <span><i style="background:var(--warn-soft);border:1px solid var(--warn)"></i>Close</span>
+        <span><i style="background:var(--bg);border:1px solid var(--line)"></i>Not a deal</span>
+        <span><i style="background:var(--bad-soft)"></i>Sold out</span>
+        <span><i style="background:repeating-linear-gradient(135deg,var(--good-soft) 0 3px,transparent 3px 6px);border:1px solid var(--line)"></i>No school</span>
+        <span><span class="dot ln-rc" style="display:inline-block;width:7px;height:7px;border-radius:50%"></span> RC <span class="dot ln-msc" style="display:inline-block;width:7px;height:7px;border-radius:50%;margin-left:6px"></span> MSC <span class="dot ln-dis" style="display:inline-block;width:7px;height:7px;border-radius:50%;margin-left:6px"></span> Disney</span>
+      </div>
+    </div>
+    <div class="cal" id="cal" aria-label="Weekend sailing calendar"></div>
+    <p class="hint" id="calhint">Tap a sailing to see prices, the price trend and booking links. Bars run from sail-away day to return day.</p>
+    <div class="detail" id="detail" hidden></div>
+  </div>
+
+  <div data-pane="tbl" hidden style="display:flex;flex-direction:column;gap:24px">
+  <section aria-labelledby="h-weeks">
+    <h2 id="h-weeks">Weekends at a glance</h2>
+    <div class="weeks" id="weeks"></div>
+  </section>
+
+  <section aria-labelledby="h-all">
+    <h2 id="h-all">All tracked sailings, best deals first</h2>
+    <div class="filters" role="group" aria-label="Filter by port">
+      <span class="lbl">Port</span>
+      <button type="button" data-port="all" aria-pressed="true">All</button>
+      <button type="button" data-port="Port Canaveral" aria-pressed="false">Port Canaveral</button>
+      <button type="button" data-port="Miami" aria-pressed="false">Miami</button>
+      <button type="button" data-port="Fort Lauderdale" aria-pressed="false">Fort Lauderdale</button>
+    </div>
+    <div class="tbl"><table style="min-width:1080px">
+      <thead><tr><th>Ship</th><th>Port</th><th>Dates</th><th>Ports of call</th><th>Interior pp</th><th>Balcony pp</th><th>Family of 4 total</th><th>Price for 4</th><th>Status</th><th>School</th><th>Source</th></tr></thead>
+      <tbody id="rows"></tbody>
+    </table></div>
+  </section>
+
+  </div>
+
+  <div data-pane="hist" hidden style="display:flex;flex-direction:column;gap:24px">
+  <section aria-labelledby="h-rep">
+    <h2 id="h-rep">Deals reported</h2>
+    <div class="tbl"><table>
+      <thead><tr><th>Sailing</th><th>Reported on</th><th>Cabin</th><th>Price pp when reported</th></tr></thead>
+      <tbody id="reported"></tbody>
+    </table></div>
+  </section>
+
+  <section aria-labelledby="h-fam">
+    <h2 id="h-fam">Family-of-4 quote history</h2>
+    <p class="small" style="margin:0">One room, 3 adults (13+) + 1 child, taxes and fees included, from royalcaribbean.com. Interior totals are 4 × the per-person "from" price.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Sailing</th><th>Quoted on</th><th>Interior total</th><th>Balcony total</th><th>Price for 4</th></tr></thead>
+      <tbody id="fam"></tbody>
+    </table></div>
+  </section>
+
+  <section aria-labelledby="h-hist">
+    <h2 id="h-hist">Price history</h2>
+    <p class="small" style="margin:0">Lowest interior / balcony per person by check date. "—" means not rechecked that day. Departed sailings are dropped.</p>
+    <div class="tbl"><table>
+      <thead id="histhead"></thead>
+      <tbody id="hist"></tbody>
+    </table></div>
+  </section>
+
+  </div>
+
+  <section class="notes">
+    <h2>Notes from the latest check (<span id="notes-date"></span>)</h2>
+    <ul id="notes"></ul>
+  </section>
+  </div>
+  <footer>Prices are per person (2 to a cabin) from public fare sites unless marked "all 4". Family-of-4 totals come from the cruise line's own site. Nothing here is booked or held — always recheck before paying. Updated daily around 9 am ET.</footer>
+</div>
+<script src="assets/app.js"></script>
+</body>
+</html>
